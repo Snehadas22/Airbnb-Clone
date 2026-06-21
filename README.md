@@ -59,4 +59,4 @@ A full-stack property rental and listing platform inspired by Airbnb, built with
 Live Demo:https://airbnb-clone-3fph.onrender.com/
 
 ## 📂 GitHub Repository
-GITHUB_REPO_LINK:
+GITHUB_REPO_LINK:https://github.com/Snehadas22/Airbnb-Clone
